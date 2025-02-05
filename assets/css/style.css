@@ -233,7 +233,6 @@ footer {
   background-color: #23272A;
 
 }
-  
 }
 
 /* Entre 540px e 1200px*/ 
@@ -242,6 +241,14 @@ footer {
   .header {
     background-image: url(../imgs/HeaderBackground.png);
     max-width: 1199px;
+  }
+
+  .header .imagine {
+  margin: auto;
+  }
+
+  main .section-1, .section-2, .section-3, .section-4 {
+    align-items: center;
   }
 }
 
