@@ -12,4 +12,4 @@ O objetivo deste projeto é aplicar e consolidar conhecimentos sobre:
 - Estruturação de páginas web com HTML
 - Estilização e responsividade com CSS
  
-- [Link GitHub Pages](https://tiagoleopoldo.github.io/Desafio-Replica-Responsiva-do-Discord)
+ [Link GitHub Pages](https://tiagoleopoldo.github.io/Desafio-Replica-Responsiva-do-Discord)
